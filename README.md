@@ -1,4 +1,4 @@
-nosim github
+havesometea github
 
 <h1 align="center">NoSim - Mobile phone jammer</h1>
 <h2 align="center">This project is only a proof of concept and for educational use only! Do not try to recreate or use. I will not be held esponsible for your actions. </h2>
@@ -9,7 +9,7 @@ nosim github
 <br><br>
 
 ## How does it work?
-Nosim transmits the same radio frequencies as the cel phone, distrupting the communication between the phone and the cel phone base station in the tower
+Nosim transmits the same radio frequencies as the cell phone, distrupting the communication between the phone and the cel phone base station in the tower
 
 ## Contribute 
 Spot a problem or want to improve this project? You can open an [issue here](https://github.com/alekexe/NoSim-Phone-Jammer/issues).
@@ -18,7 +18,11 @@ You can notify me about the bug or even fix it yourself and push a pull request 
 ## How I want to improve this project
 - [ ] Improve the board. Make it even smaller, easier and cheaper to make
 - [ ] Make a 3D printed case
-- [ ] Improve the signal strenght
+- [ ] making the code easier by using python progamming feature 0
+- [ ] improve the tracking system
+- [ ] jaamming the SIM ID"S (EVEN THE CELL PHONE TOWERS)
+- [ ] inserting suspicious malware 
+- [ ] Improve the signal strengyh
 - [ ] Maybe add battery and charging feature
 
 ## Share with friends
